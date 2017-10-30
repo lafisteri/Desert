@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SaveAndLoad/GameHelper.cs">
+    <Files>
+      <File FileName="Assets/Scripts/SaveAndLoad/GameHelper.cs" Line="27" Column="2" />
+      <File FileName="Assets/Scripts/Level/CheckDie.cs" Line="9" Column="31" />
+      <File FileName="Assets/Scripts/Helpers/Data.cs" Line="7" Column="30" />
+      <File FileName="Assets/Scripts/SaveAndLoad/CheckSave.cs" Line="8" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
